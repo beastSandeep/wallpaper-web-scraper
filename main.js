@@ -2,10 +2,10 @@ const { Worker } = require("worker_threads");
 const path = require("path");
 
 const START_PAGE = 1; // start from here
-const MAX_PAGE = 26;
-const NUM_WORKERS = 9;
+const MAX_PAGE = 78;
+const NUM_WORKERS = 5;
 
-const URL = "https://wallpapershome.com/simple-background/?page=";
+const URL = "https://wallpapershome.com/nature/?page=";
 
 function splitPageRanges(start, end, workers) {
   const totalPages = end - start + 1;

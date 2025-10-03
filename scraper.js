@@ -53,9 +53,7 @@ async function downloadImage(url, filename) {
       });
 
       const links = await page.evaluate(() =>
-        Array.from(document.querySelectorAll("div.pics:not(#pics-list) a")).map(
-          (a) => a.href
-        )
+        Array.from(document.querySelectorAll("div.pics a")).map((a) => a.href)
       );
 
       for (const link of links) {
