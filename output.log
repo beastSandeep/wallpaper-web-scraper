@@ -1,0 +1,196 @@
+
+> web-scraper@1.0.0 start
+> node main.js
+
+[Worker 1 Status]: Worker 1: Opening page 1
+[Worker 6 Status]: Worker 6: Opening page 16
+[Worker 4 Status]: Worker 4: Opening page 10
+[Worker 2 Status]: Worker 2: Opening page 4
+[Worker 3 Status]: Worker 3: Opening page 7
+[Worker 5 Status]: Worker 5: Opening page 13
+[Worker 4 Downloaded]: autumn-decor-wallpaper-3840x2160-fall-scenery-rustic-elements-26730.jpg
+[Worker 6 Downloaded]: forest-wallpaper-3840x2160-nature-wilderness-25348.jpg
+[Worker 2 Downloaded]: oktoberfest-wallpaper-3840x2160-bavarian-culture-german-cuisine-27454.jpg
+[Worker 3 Downloaded]: wormhole-wallpaper-3840x2160-astrophysics-quantum-mechanics-27210.jpg
+[Worker 1 Downloaded]: halloween-pumpkin-wallpaper-3840x2160-fall-decorations-pumpkin-carving-ideas-27816.jpg
+[Worker 5 Downloaded]: coastal-wallpaper-3840x2160-tranquil-waters-calm-waves-26585.jpg
+[Worker 4 Downloaded]: fall-art-wallpaper-3840x2160-colorful-foliage-warm-tones-26729.jpg
+[Worker 6 Downloaded]: forest-wallpaper-3840x2160-eerie-woods-25332.jpg
+[Worker 2 Downloaded]: temple-architecture-wallpaper-3840x2160-architectural-design-sacred-spaces-27357.jpg
+[Worker 6 Status]: Worker 6: No 4K UHD image found on https://wallpapershome.com/people/illustrations/girl-ship-sea-25331.html
+[Worker 1 Downloaded]: halloween-pumpkin-wallpaper-3840x2160-fall-decorations-halloween-crafts-27815.jpg
+[Worker 3 Downloaded]: wormhole-wallpaper-3840x2160-time-travel-gravitational-waves-27209.jpg
+[Worker 5 Downloaded]: coastal-wallpaper-3840x2160-peaceful-waterfront-26584.jpg
+[Worker 2 Downloaded]: temple-architecture-wallpaper-3840x2160-sacred-sites-sky-27376.jpg
+[Worker 1 Downloaded]: halloween-pumpkin-wallpaper-3840x2160-cute-halloween-haunted-house-27814.jpg
+[Worker 5 Downloaded]: coastal-wallpaper-3840x2160-ocean-serene-26583.jpg
+[Worker 3 Downloaded]: space-time-wallpaper-3840x2160-dimensions-physics-27208.jpg
+[Worker 6 Downloaded]: village-wallpaper-3840x2160-darkness-serene-landscape-25321.jpg
+[Worker 1 Downloaded]: halloween-pumpkin-wallpaper-3840x2160-jack-o-lanterns-trick-or-treat-27813.jpg
+[Worker 2 Downloaded]: temple-architecture-wallpaper-3840x2160-architectural-photography-sacred-places-27375.jpg
+[Worker 5 Downloaded]: coastal-wallpaper-3840x2160-ocean-relaxed-26582.jpg
+[Worker 4 Downloaded]: fall-art-wallpaper-3840x2160-warm-colors-colorful-leaves-26728.jpg
+[Worker 6 Downloaded]: beach-wallpaper-3840x2160-sunset-waves-25318.jpg
+[Worker 3 Downloaded]: space-time-wallpaper-3840x2160-quantum-mechanics-dimensional-shifts-27207.jpg
+[Worker 5 Downloaded]: coastal-wallpaper-3840x2160-ocean-beach-26581.jpg
+[Worker 1 Downloaded]: halloween-pumpkin-wallpaper-3840x2160-halloween-crafts-spooky-decorations-27812.jpg
+[Worker 2 Downloaded]: temple-architecture-wallpaper-3840x2160-sacred-spaces-historical-buildings-27374.jpg
+[Worker 6 Downloaded]: forest-wallpaper-3840x2160-nature-landscape-25312.jpg
+[Worker 5 Downloaded]: japan-wallpaper-3840x2160-urban-city-26310.jpg
+[Worker 1 Downloaded]: halloween-pumpkin-wallpaper-3840x2160-cute-ghosts-pumpkin-carving-27811.jpg
+[Worker 3 Downloaded]: space-time-wallpaper-3840x2160-astrophysics-nebulae-27206.jpg
+[Worker 6 Downloaded]: dragon-wallpaper-3840x2160-fantasy-ancient-trees-25289.jpg
+[Worker 2 Downloaded]: temple-architecture-wallpaper-3840x2160-cultural-monuments-cultural-heritage-27373.jpg
+[Worker 1 Downloaded]: halloween-pumpkin-wallpaper-3840x2160-jack-o-lanterns-cute-halloween-27810.jpg
+[Worker 4 Downloaded]: fall-art-wallpaper-3840x2160-cozy-vibes-nature-artwork-26727.jpg
+[Worker 6 Downloaded]: girls-wallpaper-3840x2160-ladies-girls-activities-25287.jpg
+[Worker 6 Status]: Worker 6: Closed page 16
+[Worker 6 Status]: Worker 6: Opening page 17
+[Worker 3 Downloaded]: wormhole-wallpaper-3840x2160-galaxies-dark-matter-27205.jpg
+[Worker 5 Downloaded]: japan-wallpaper-3840x2160-futuristic-anime-26309.jpg
+[Worker 2 Downloaded]: temple-architecture-wallpaper-3840x2160-cultural-heritage-ancient-architecture-27372.jpg
+[Worker 1 Downloaded]: halloween-pumpkin-wallpaper-3840x2160-cute-ghosts-autumn-harvest-27809.jpg
+[Worker 1 Status]: Worker 1: Closed page 1
+[Worker 1 Status]: Worker 1: Opening page 2
+[Worker 5 Downloaded]: japan-wallpaper-3840x2160-glitch-futuristic-26308.jpg
+[Worker 5 Status]: Worker 5: Closed page 13
+[Worker 5 Status]: Worker 5: Opening page 14
+[Worker 3 Downloaded]: space-time-wallpaper-3840x2160-dimensional-travel-dimensions-27204.jpg
+[Worker 6 Downloaded]: rifles-wallpaper-3840x2160-military-rifles-firearm-showcase-25098.jpg
+[Worker 2 Downloaded]: temple-architecture-wallpaper-3840x2160-nature-trails-archaeological-sites-27371.jpg
+[Worker 2 Status]: Worker 2: Closed page 4
+[Worker 2 Status]: Worker 2: Opening page 5
+[Worker 3 Downloaded]: space-time-wallpaper-3840x2160-dimension-time-travel-27203.jpg
+[Worker 3 Status]: Worker 3: Closed page 7
+[Worker 3 Status]: Worker 3: Opening page 8
+[Worker 6 Downloaded]: rifles-wallpaper-3840x2160-shooting-sports-hunting-rifles-25097.jpg
+[Worker 1 Downloaded]: nature-spirit-wallpaper-3840x2160-mythical-creatures-dark-forest-27791.jpg
+[Worker 4 Downloaded]: autumn-decor-wallpaper-3840x2160-rustic-home-decor-seasonal-decor-26726.jpg
+[Worker 6 Downloaded]: cosmonaut-wallpaper-3840x2160-high-resolution-cosmic-25092.jpg
+[Worker 1 Downloaded]: nature-spirit-wallpaper-3840x2160-magical-creatures-mystical-beings-27790.jpg
+[Worker 5 Downloaded]: pyramid-wallpaper-3840x2160-cosmos-ancient-structure-26139.jpg
+[Worker 6 Downloaded]: cosmonaut-wallpaper-3840x2160-galaxy-stars-25091.jpg
+[Worker 2 Downloaded]: temples-wallpaper-3840x2160-cultural-heritage-sacred-architecture-27362.jpg
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-retro-aesthetics-synthwave-art-27194.jpg
+[Worker 4 Downloaded]: fall-art-wallpaper-3840x2160-fall-scenery-nature-art-26725.jpg
+[Worker 5 Downloaded]: astronaut-wallpaper-3840x2160-vibrant-playful-25944.jpg
+[Worker 1 Downloaded]: nature-spirit-wallpaper-3840x2160-mythical-creatures-magical-realism-27784.jpg
+[Worker 6 Downloaded]: girl-wallpaper-3840x2160-galaxy-nebula-25094.jpg
+[Worker 2 Downloaded]: temples-wallpaper-3840x2160-cultural-heritage-spirituality-27361.jpg
+[Worker 5 Downloaded]: anime-girl-wallpaper-3840x2160-pink-hair-character-design-25933.jpg
+[Worker 1 Downloaded]: nature-spirit-wallpaper-3840x2160-mythical-creatures-supernatural-beings-27783.jpg
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-synthwave-vaporwave-27193.jpg
+[Worker 6 Downloaded]: girl-wallpaper-3840x2160-starlit-digital-art-25088.jpg
+[Worker 4 Downloaded]: autumn-decor-wallpaper-3840x2160-fall-foliage-cozy-interior-design-26724.jpg
+[Worker 2 Downloaded]: temples-wallpaper-3840x2160-cultural-heritage-sky-27360.jpg
+[Worker 5 Downloaded]: dragon-wallpaper-3840x2160-scale-covered-ancient-lore-26066.jpg
+[Worker 1 Downloaded]: nature-spirit-wallpaper-3840x2160-eerie-atmosphere-witchy-vibes-27782.jpg
+[Worker 6 Downloaded]: girl-wallpaper-3840x2160-4k-resolution-vibrant-25090.jpg
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-vintage-vibes-retro-aesthetics-27192.jpg
+[Worker 2 Downloaded]: ancient-wallpaper-3840x2160-ancient-architecture-sacred-sites-27359.jpg
+[Worker 5 Downloaded]: robot-wallpaper-3840x2160-technology-artificial-intelligence-26082.jpg
+[Worker 4 Downloaded]: fall-art-wallpaper-3840x2160-landscape-painting-harvest-season-26723.jpg
+[Worker 4 Status]: Worker 4: Closed page 10
+[Worker 4 Status]: Worker 4: Opening page 11
+[Worker 6 Downloaded]: monkey-wallpaper-3840x2160-user-profile-playful-monkeys-25087.jpg
+[Worker 1 Downloaded]: nature-spirit-wallpaper-3840x2160-eerie-atmosphere-mystical-landscapes-27781.jpg
+[Worker 6 Status]: Worker 6: Closed page 17
+[Worker 6 Status]: Worker 6: Opening page 18
+[Worker 2 Downloaded]: temple-architecture-wallpaper-3840x2160-ancient-ruins-temple-design-27358.jpg
+[Worker 5 Downloaded]: dragon-wallpaper-3840x2160-fantasy-highlands-26025.jpg
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-vintage-vibes-vintage-aesthetic-27191.jpg
+[Worker 2 Downloaded]: stress-reduction-wallpaper-3840x2160-stress-relief-green-wall-art-27310.jpg
+[Worker 1 Downloaded]: creepy-wallpaper-3840x2160-eerie-atmosphere-supernatural-beings-27780.jpg
+[Worker 5 Downloaded]: tree-wallpaper-3840x2160-trunk-snowy-25923.jpg
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-surreal-landscapes-retro-aesthetic-27190.jpg
+[Worker 2 Downloaded]: stress-reduction-wallpaper-3840x2160-eco-friendly-design-stress-relief-art-27305.jpg
+[Worker 4 Downloaded]: combat-wallpaper-3840x2160-flames-intense-25896.jpg
+[Worker 6 Downloaded]: apartment-wallpaper-3840x2160-living-space-residence-25029.jpg
+[Worker 1 Downloaded]: enchanted-forest-wallpaper-3840x2160-mystical-woods-mystical-creatures-27805.jpg
+[Worker 1 Status]: Worker 1: Closed page 2
+[Worker 1 Status]: Worker 1: Opening page 3
+[Worker 5 Downloaded]: girl-wallpaper-3840x2160-urban-landscape-sci-fi-25918.jpg
+[Worker 5 Status]: Worker 5: Closed page 14
+[Worker 5 Status]: Worker 5: Opening page 15
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-neon-colors-synthwave-aesthetic-27189.jpg
+[Worker 6 Downloaded]: apartment-wallpaper-3840x2160-cartoonish-home-25027.jpg
+[Worker 4 Downloaded]: robot-wallpaper-3840x2160-abandoned-lush-26626.jpg
+[Worker 2 Downloaded]: biophilic-design-wallpaper-3840x2160-nature-patterns-natural-textures-27314.jpg
+[Worker 2 Status]: Worker 2: Closed page 5
+[Worker 2 Status]: Worker 2: Opening page 6
+[Worker 6 Downloaded]: windows-11-wallpaper-3840x2160-serene-evening-sky-25017.jpg
+[Worker 4 Downloaded]: robot-wallpaper-3840x2160-abandoned-untamed-26625.jpg
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-80s-aesthetic-cosmic-vibes-27188.jpg
+[Worker 1 Downloaded]: forest-spirit-wallpaper-3840x2160-magical-realism-enchanted-woods-27796.jpg
+[Worker 6 Downloaded]: wasteland-wallpaper-3840x2160-city-silhouette-post-apocalyptic-view-24957.jpg
+[Worker 5 Downloaded]: planets-wallpaper-3840x2160-mountains-planetary-geology-25662.jpg
+[Worker 4 Downloaded]: robot-wallpaper-3840x2160-nature-untamed-26624.jpg
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-vaporwave-80s-style-27187.jpg
+[Worker 3 Status]: Worker 3: Closed page 8
+[Worker 3 Status]: Worker 3: Opening page 9
+[Worker 1 Downloaded]: nature-spirit-wallpaper-3840x2160-eerie-atmosphere-magical-forest-27789.jpg
+[Worker 6 Downloaded]: wasteland-wallpaper-3840x2160-urban-decay-4k-24958.jpg
+[Worker 2 Downloaded]: biophilic-design-wallpaper-3840x2160-nature-patterns-organic-textures-27303.jpg
+[Worker 5 Downloaded]: robot-wallpaper-3840x2160-futuristic-user-25642.jpg
+[Worker 4 Downloaded]: robot-wallpaper-3840x2160-abandoned-lost-26623.jpg
+[Worker 6 Downloaded]: cyberpunk-wallpaper-3840x2160-wasteland-urban-24955.jpg
+[Worker 1 Downloaded]: forest-spirit-wallpaper-3840x2160-haunted-woods-nature-fantasy-27788.jpg
+[Worker 2 Downloaded]: biophilic-design-wallpaper-3840x2160-nature-patterns-sustainable-design-27302.jpg
+[Worker 5 Downloaded]: dragon-wallpaper-3840x2160-celestial-space-25639.jpg
+[Worker 6 Downloaded]: girl-wallpaper-3840x2160-dress-reading-5748.jpg
+[Worker 4 Downloaded]: robot-wallpaper-3840x2160-abandoned-untamed-26622.jpg
+[Worker 1 Downloaded]: forest-spirit-wallpaper-3840x2160-eerie-atmosphere-nature-magic-27787.jpg
+[Worker 2 Downloaded]: biophilic-design-wallpaper-3840x2160-botanical-illustration-eco-friendly-design-27301.jpg
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-80s-nostalgia-80s-vibes-27178.jpg
+[Worker 4 Downloaded]: robot-wallpaper-3840x2160-abandoned-untamed-26621.jpg
+[Worker 5 Downloaded]: robot-wallpaper-3840x2160-futuristic-youth-25570.jpg
+[Worker 6 Downloaded]: retrowave-wallpaper-3840x2160-retro-futuristic-electric-glow-19713.jpg
+[Worker 6 Status]: Worker 6: Closed page 18
+[Worker 6] Finished scraping.
+[Worker 6] exited with code 0
+[Worker 1 Downloaded]: forest-spirit-wallpaper-3840x2160-mythical-being-mystical-creatures-27786.jpg
+[Worker 2 Downloaded]: patterns-wallpaper-3840x2160-botanical-illustration-nature-patterns-27300.jpg
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-retro-aesthetic-geometric-design-27177.jpg
+[Worker 4 Downloaded]: robot-wallpaper-3840x2160-abandoned-lush-26620.jpg
+[Worker 4 Status]: Worker 4: Closed page 11
+[Worker 4 Status]: Worker 4: Opening page 12
+[Worker 1 Downloaded]: nature-spirit-wallpaper-3840x2160-supernatural-beings-mystical-creatures-27785.jpg
+[Worker 5 Downloaded]: underwater-wallpaper-3840x2160-ocean-colorful-25565.jpg
+[Worker 2 Downloaded]: retrowave-wallpaper-3840x2160-neon-colors-vintage-style-27175.jpg
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-synthwave-retro-aesthetic-27176.jpg
+[Worker 1 Downloaded]: skull-wallpaper-3840x2160-death-spooky-26077.jpg
+[Worker 5 Downloaded]: mushrooms-wallpaper-3840x2160-magical-fungi-rustic-charm-25553.jpg
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-retro-aesthetic-gradient-27174.jpg
+[Worker 2 Downloaded]: wormhole-wallpaper-3840x2160-astrophysics-black-holes-27213.jpg
+[Worker 5 Downloaded]: user-avatar-wallpaper-3840x2160-mechanical-figure-tech-icon-25524.jpg
+[Worker 1 Downloaded]: wiesn-wallpaper-3840x2160-beer-tents-bavarian-music-27477.jpg
+[Worker 1 Status]: Worker 1: Closed page 3
+[Worker 1] Finished scraping.
+[Worker 1] exited with code 0
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-80s-style-retro-aesthetic-27173.jpg
+[Worker 5 Downloaded]: user-avatar-wallpaper-3840x2160-avatar-legendary-beast-25523.jpg
+[Worker 5 Status]: Worker 5: Closed page 15
+[Worker 4 Downloaded]: lofi-wallpaper-3840x2160-lazy-relaxed-26612.jpg
+[Worker 2 Downloaded]: wormhole-wallpaper-3840x2160-time-travel-dark-matter-27221.jpg
+[Worker 5] Finished scraping.
+[Worker 5] exited with code 0
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-80s-aesthetic-neon-lights-27172.jpg
+[Worker 2 Downloaded]: wormhole-wallpaper-3840x2160-astrophysics-interstellar-travel-27220.jpg
+[Worker 2 Status]: Worker 2: Closed page 6
+[Worker 4 Downloaded]: lofi-wallpaper-3840x2160-chill-vibes-serene-environment-26610.jpg
+[Worker 2] Finished scraping.
+[Worker 2] exited with code 0
+[Worker 3 Downloaded]: retrowave-wallpaper-3840x2160-80s-aesthetic-neon-aesthetic-27171.jpg
+[Worker 4 Downloaded]: steampunk-wallpaper-3840x2160-railway-industrial-26599.jpg
+[Worker 3 Downloaded]: raccoon-wallpaper-3840x2160-4k-resolution-playful-wildlife-25093.jpg
+[Worker 3 Status]: Worker 3: Closed page 9
+[Worker 3] Finished scraping.
+[Worker 3] exited with code 0
+[Worker 4 Downloaded]: steampunk-wallpaper-3840x2160-vintage-town-industrial-26598.jpg
+[Worker 4 Downloaded]: steampunk-wallpaper-3840x2160-railway-town-26597.jpg
+[Worker 4 Downloaded]: steampunk-wallpaper-3840x2160-railway-town-26596.jpg
+[Worker 4 Downloaded]: steampunk-wallpaper-3840x2160-railway-town-26595.jpg
+[Worker 4 Downloaded]: steampunk-wallpaper-3840x2160-railway-industrial-26594.jpg
+[Worker 4 Status]: Worker 4: Closed page 12
+[Worker 4] Finished scraping.
+[Worker 4] exited with code 0
